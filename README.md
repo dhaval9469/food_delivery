@@ -1,6 +1,5 @@
 # food_delivery
 
-# App Promo Video Link
 https://youtube.com/shorts/Jr1KZEN6JAE?feature=share
 
 
